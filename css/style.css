@@ -109,7 +109,7 @@
 #intro h2 {
     margin-top:-20px;
     font-size: 80px;
-    color: #2f34425d;
+    color: #ffffff;
     font-family: 'Baloo', cursive;
     letter-spacing: 3px;
     text-shadow: 0px 0px 8px rgba(40,42,43,0.8);
@@ -308,7 +308,7 @@
 .back_content span {
     display: inline-block;
     font-size: 16px;
-    color: #5e2929;
+    color: #1e9ee9;
     font-weight: 700;
     padding-right: 20px;
 }
