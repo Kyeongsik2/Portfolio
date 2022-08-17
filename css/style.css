@@ -95,7 +95,7 @@
     position: relative;
     width: 100%;
     height: 100vh;
-    background-color: #3c4042;
+    background-color: #5c97b4c9;
 }
 
 #intro .content {
@@ -176,7 +176,7 @@
 #profile {
     width: 100%;
     padding: 200px 0;
-    background-color: #3c4042;
+    background-color: #5c97b4c9;
 }
 
 #profile h3 {
@@ -250,7 +250,7 @@
 }
 
 .front {
-    background: linear-gradient( 145deg, #2f34425d, #886769 );
+    background: linear-gradient( 145deg, #ffffff, #3582f5 );
     transform: perspective(600px) rotateY(0deg);
     box-shadow: 2px 2px 8px rgba(0,0,0,0.2);
 }
@@ -273,7 +273,7 @@
 }
 
 .back_content {
-    color: #2c3e50;
+    color: #1f4b77;
     text-align: center;
     width: 100%;
 }
@@ -294,7 +294,7 @@
 }
 
 .back_content h4 {
-    color: #1e9ee9;
+    color: #157592;
     font-size: 20px;
     font-family: 'Baloo', cursive;
     padding-top: 10px;
@@ -339,7 +339,7 @@
 #work {
     width: 100%;
     padding: 100px 0;
-    background-color: #3c4042;
+    background-color: #5c97b4c9;
 }
 
 #work h3 {
@@ -391,7 +391,7 @@
     display: block;
     text-align: right;
     font-size: 14px;
-    color: #2f34425d;
+    color: #338083;
     padding-top: 50px;
 }
 
@@ -483,7 +483,7 @@
     display: block;
     text-align: left;
     font-size: 14px;
-    color: #2f34425d;
+    color: #338083;
     padding-top: 50px;
 }
 
@@ -574,7 +574,7 @@
 #skill {
     width: 100%;
     padding: 100px 0;
-    background-color: #3c4042;
+    background-color: #5c97b4c9;
 }
 
 #skill h3 {
@@ -631,7 +631,7 @@
     position: relative;
     width: 100%;
     height: 500px;
-    background-color: #3c4042;
+    background-color: #5c97b4c9;
 }
 
 #footer .type-wrap #typed {
